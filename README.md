@@ -1,6 +1,7 @@
 Hello-world
 ===========
 
+## This is a markdown file 
 Yet another repository 
 
 Ah.  OK, "edit" is a pencil icon, not a text link.  
